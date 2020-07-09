@@ -1,6 +1,6 @@
 # Show do Milhão
 <div display="flex" align="center">
-	<img src="https://github.com/VicHofs/snake-multiplayer/blob/master/snake%20introduction.gif" />
+	<img src="https://github.com/VicHofs/show-do-milhao/blob/master/landing.png" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-hofstetter/">
@@ -36,13 +36,13 @@ This project was developed with the following technologies:
 
 ## 📋 Layout
 <h2> -Landing page</h2>
-<img src="https://github.com/VicHofs/snake-multiplayer/blob/master/menu%20snake.png?raw=true" align="center" height=600 width=650>
+<img src="https://github.com/VicHofs/show-do-milhao/blob/master/landing.png?raw=true" align="center" height=600 width=650>
 
 <h2> -Game page</h2>
-<img src="https://github.com/VicHofs/snake-multiplayer/blob/master/snake%20gameplay.png?raw=true" align="center" height=600 width=650>
+<img src="https://github.com/VicHofs/show-do-milhao/blob/master/ingame.png?raw=true" align="center" height=600 width=650>
 
 <h2> -Results page</h2>
-<img src="https://github.com/VicHofs/snake-multiplayer/blob/master/snake%20gameplay.png?raw=true" align="center" height=600 width=650>
+<img src="https://github.com/VicHofs/show-do-milhao/blob/master/endgame.png?raw=true" align="center" height=600 width=650>
 
 ## 📜 License
 
