@@ -1,19 +1,4 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
+.main {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -24,15 +9,55 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.startButton {
+  outline:none;
+  height: 50px;
+  text-align: center;
+  width: 130px;
+  border-radius:40px;
+  background: rgba(255, 255, 255, 0);
+  border: 2px solid #fcdc5a;
+  color:#fcdc5a;
+  letter-spacing:1px;
+  text-shadow:0;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .startButton:hover {
+    color:#282c34;
+    background: #fcdc5a;
+    
   }
-  to {
-    transform: rotate(360deg);
+
+  .questions {
+    display: flex;
+    flex-direction: column;
   }
-}
+
+  .questions button {
+    outline:none;
+  height: 50px;
+  text-align: center;
+  width: 200px;
+  border-radius:40px;
+  background: rgba(255, 255, 255, 0);
+  border: 2px solid #fcdc5a;
+  color:#fcdc5a;
+  letter-spacing:1px;
+  text-shadow:0;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  margin-bottom: 10px;
+  }
+
+  .questions button:hover {
+    color:#282c34;
+    background: #fcdc5a;
+  }
