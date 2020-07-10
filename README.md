@@ -1,6 +1,6 @@
 # Show do Milhão
 <div display="flex" align="center">
-	<img src="https://github.com/VicHofs/show-do-milhao/blob/master/landing.png" />
+	<img src="https://github.com/VicHofs/show-do-milhao/blob/master/intro.gif" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-hofstetter/">
