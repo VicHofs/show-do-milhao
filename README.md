@@ -19,9 +19,9 @@
 
 A react app based on the hit Brazilian TV Show "Show do Milhão"
 
-<img alt="" src="https://www.gpio.co.uk/wp-content/uploads/2017/10/opentriviadb.png">
+<img alt="" src="https://www.gpio.co.uk/wp-content/uploads/2017/10/opentriviadb.png" width=372px height=192.5px>
 
-Questions are fed into the client from the Open Trivia Database API. Thus, questions are randomized every time you hit play :)
+Questions are fed into the client from the Open Trivia Database API. Thus, they are randomized every time you hit play :)
 
 There are 24 questions in each round. You start the game with one million R$ and with every wrong answer you lose 1/24 of the initial amount.
 
