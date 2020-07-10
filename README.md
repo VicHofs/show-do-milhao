@@ -36,13 +36,13 @@ This project was developed with the following technologies:
 
 ## 📋 Layout
 <h2> -Landing page</h2>
-<img src="https://github.com/VicHofs/show-do-milhao/blob/master/landing.png?raw=true" align="center" height=600 width=650>
+<img src="https://github.com/VicHofs/show-do-milhao/blob/master/landing.png?raw=true" align="center" height=285.5 width=379.5>
 
 <h2> -Game page</h2>
-<img src="https://github.com/VicHofs/show-do-milhao/blob/master/ingame.png?raw=true" align="center" height=600 width=650>
+<img src="https://github.com/VicHofs/show-do-milhao/blob/master/ingame.png?raw=true" align="center" height=353.5 width=380.5>
 
 <h2> -Results page</h2>
-<img src="https://github.com/VicHofs/show-do-milhao/blob/master/endgame.png?raw=true" align="center" height=600 width=650>
+<img src="https://github.com/VicHofs/show-do-milhao/blob/master/endgame.png?raw=true" align="center" height=303.5 width=400.5>
 
 ## 📜 License
 
@@ -103,5 +103,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 
-##Youtube demo
+<h2>Youtube Demo</h2>
 https://youtu.be/9pH33GF2gkQ
